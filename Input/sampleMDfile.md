@@ -98,10 +98,10 @@ https://developer.atlassian.com/cloud/confluence/rest/v2/
 Put your files in an attachments/ folder next to this Markdown file, or update the paths below.
 
 ### Image (inline)
-../Input/attachment/Chacha_Chaudhary.jpg
+/Input/attachments/Chacha_Chaudhary.jpg
 
 ### Downloadable Files
-../Input/attachment/12e3a6_2968e6bf3ac9425f9751696d06c711b7~mv2_d_1584_2032_s_2.jpg
-../Input/attachment/33435223.png
+/Input/attachments/12e3a6_2968e6bf3ac9425f9751696d06c711b7~mv2_d_1584_2032_s_2.jpg
+/Input/attachments/33435223.png
 
 ***** End of sample document. *****
