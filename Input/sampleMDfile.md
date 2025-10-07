@@ -51,13 +51,13 @@ It supports:
 
 ### 4.1 Python
 
-
+```
 from typing import List, Dict
 
 def rank_candidates(candidates: List[Dict]) -> List[Dict]:
-    """
+    
     Sort candidates by 'score' descending; ties broken by 'experience_years'.
-    """
+    
     return sorted(
         candidates,
         key=lambda c: (c.get("score", 0), c.get("experience_years", 0)),
@@ -71,3 +71,4 @@ if __name__ == "__main__":
         {"name": "Meera", "score": 92, "experience_years": 3},
     ]
     print(rank_candidates(sample))
+```
