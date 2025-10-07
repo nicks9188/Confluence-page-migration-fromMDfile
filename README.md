@@ -5,7 +5,7 @@ Confluence page update using markdown files
 * Python.
 * Notepad.
 * Any terminal application (cmd or git for windows).
-* 'code(pip install requests markdown)' => run from CMD to install the dependency for md files. 
+* 'code()'pip install requests markdown'code()' => run from CMD to install the dependency for md files. 
 ================================================
 ## How to upload:
 1) Folder structure:
