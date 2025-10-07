@@ -6,16 +6,16 @@ Confluence page update using markdown files
 * Notepad.
 * Any terminal application (cmd or git for windows).
 * ```pip install requests markdown``` => run from CMD to install the dependency for md files. 
-================================================
+
 ## How to upload:
-1) Folder structure:
+* Folder structure:
 	Main folder: script + Input folder(with .md files)
-2) Inside main folder, create a folder named "Input". Place all the .md file which need to be uploaded inside this "Input" folder.
-3) Create the script inside the main folder.
-4) Edit the script and change the hardcoded values as per requirement.
-     *Following values are hardcoded:
-       *Confluence base url.
-       *Space key.
+* Inside main folder, create a folder named "Input". Place all the .md file which need to be uploaded inside this "Input" folder.
+* Create the script inside the main folder.
+* Edit the script and change the hardcoded values as per requirement.
+   	* Following values are hardcoded:
+       * Confluence base url.
+       * Space key.
        * username.
        * API Key.
 
