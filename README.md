@@ -18,9 +18,8 @@ Confluence page update using markdown files
        * Space key.
        * username.
        * API Key.
-
-6) *Space id* is the only variable.
-4) Open command line in the main folder.
-5) Run the script: python <filename>
-6) Check the confluence.
+* *Space id* is the only variable.
+* Open command line in the main folder.
+* Run the script: python <filename>
+* Check the confluence.
 
